@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-blue{
+
+    color: #1576D6;
+}
+
+.border{
+
+    color: #F4C123;
+}
+
+.text-dark{
+
+    color: #25292C;
+}
+
+.bg-white {
+
+    background-color: #F6F3EF;
+}
+
+.border{
+
+  border-color: #6C757D80;
+}
+
+.py-10{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.px-16{
+
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.py-12{
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
